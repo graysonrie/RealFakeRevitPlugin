@@ -16,7 +16,7 @@
     <UseWPF>true</UseWPF>
     <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
     <Title>Real Revit Plugin</Title>
-    <Version>1.0.0</Version>
+    <Version>1.2.1</Version>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/graysonrie/RealFakeRevitPlugin</RepositoryUrl>
     <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
